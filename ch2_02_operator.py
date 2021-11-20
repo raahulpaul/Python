@@ -3,9 +3,9 @@ b = 4
 
 # Arithmetic operators
 print("The value of 3 + 4 is", 3+4)
-print("The value of 3 + 4 is", 3-4)
-print("The value of 3 + 4 is", 3*4)
-print("The value of 3 + 4 is", 3/4)
+print("The value of 3 - 4 is", 3-4)
+print("The value of 3 * 4 is", 3*4)
+print("The value of 3 / 4 is", 3/4)
 
 # Assignment Operators
 a = 34
